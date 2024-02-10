@@ -1,4 +1,3 @@
-# YamanKaanA
 <h1 align="center">Hi 👋, I'm Yaman Kaan ARDA</h1>
 <h3 align="center">A Student From Turkey</h3>
 
